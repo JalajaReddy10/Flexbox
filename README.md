@@ -9,6 +9,14 @@ This project is a simple and responsive Pricing Table built using HTML & CSS (Fl
 **#Live Output**
 http://127.0.0.1:3000/9.4+Flexbox+Pricing+Table+Project/index.html
 
+**#Technologies Used**
+
+HTML5
+
+CSS3 (Flexbox, Shadows, Responsive Design)
+
+Google Fonts (Sono)
+
 **#Features**
 
 **Flexbox Layout:** Ensures a structured and responsive design.
