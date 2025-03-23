@@ -11,11 +11,11 @@ http://127.0.0.1:3000/9.4+Flexbox+Pricing+Table+Project/index.html
 
 **#Technologies Used**
 
-HTML5
+1.HTML5
 
-CSS3 (Flexbox, Shadows, Responsive Design)
+2.CSS3 (Flexbox, Shadows, Responsive Design)
 
-Google Fonts (Sono)
+3.Google Fonts (Sono)
 
 **#Features**
 
