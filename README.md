@@ -11,7 +11,10 @@ http://127.0.0.1:3000/9.4+Flexbox+Pricing+Table+Project/index.html
 
 **#Features**
 
-Flexbox Layout: Ensures a structured and responsive design.
-Responsive Design: Adjusts for smaller screens using media queries.
-Styled Buttons: Modern and interactive button design with hover effects.
-Shadow Effects: Enhances UI with a darker shadow for better contrast.
+**Flexbox Layout:** Ensures a structured and responsive design.
+
+**Responsive Design:** Adjusts for smaller screens using media queries.
+
+**Styled Buttons:** Modern and interactive button design with hover effects.
+
+**Shadow Effects:** Enhances UI with a darker shadow for better contrast.
